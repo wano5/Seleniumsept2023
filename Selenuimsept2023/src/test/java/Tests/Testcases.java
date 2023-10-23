@@ -25,6 +25,7 @@ public class Testcases {
 	infoPage ip;
 	overveiwPage ovp;
 	completePage cpm;
+	//This is page object model
 
 	@BeforeMethod
 	public void setup() {
@@ -77,6 +78,11 @@ public class Testcases {
 			
 			
 	}
+		
+		@Test
+		public void test2() {
+			System.out.println("Test-2");
+		}
 	}
 
 
