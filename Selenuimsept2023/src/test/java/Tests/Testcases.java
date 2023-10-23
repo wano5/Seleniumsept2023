@@ -78,11 +78,7 @@ public class Testcases {
 			
 			
 	}
-		
-		@Test
-		public void test2() {
-			System.out.println("Test-2");
-		}
+	
 	}
 
 
